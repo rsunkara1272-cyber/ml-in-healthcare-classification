@@ -90,6 +90,9 @@ Minimal false negatives (critical for healthcare use cases)
 
 📈 Visualizations
 
+</> Markdowm
+![Model Results](classification_linkedin.png)
+
 The pipeline generates a single consolidated output with:
 🔹 Confusion Matrix
 🔹 ROC Curve
